@@ -1,37 +1,37 @@
 
-# 🔐 Password Generator
+#  Password Generator
 
 A **Password Generator Web App** that creates strong, random passwords based on user-selected criteria. This tool enhances security by allowing users to choose password length and the inclusion of uppercase letters, lowercase letters, numbers, and symbols. Built using **HTML**, **CSS**, and **JavaScript**, it's a simple yet effective solution for generating secure passwords.
 
 ---
 
-## 📸 Demo
+##  Screenshot preview
 
-![Password Generator Screenshot](https://your-image-link-here.com/screenshot.png)  
+![Image](https://github.com/user-attachments/assets/be4e2da1-ae50-4f75-a903-164ae73f740a)  
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 Check out the live version here: [https://your-username.github.io/password-generator](https://your-username.github.io/password-generator)
 
 ---
 
-## 🧠 Features
+##  Features
 
-- ✅ Generate strong, secure, and random passwords
-- 🔢 Adjustable password length (default: 12)
-- 🔠 Option to include:
+-  Generate strong, secure, and random passwords
+-  Adjustable password length (default: 12)
+-  Option to include:
   - Uppercase letters
   - Lowercase letters
   - Numbers
   - Symbols
-- 📋 Copy the password for use
-- 📱 Fully responsive and mobile-friendly
+-  Copy the password for use
+-  Fully responsive and mobile-friendly
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** – Page structure and form controls
 - **CSS3** – Styling and layout
@@ -39,10 +39,10 @@ Check out the live version here: [https://your-username.github.io/password-gener
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
 ```bash
-📁 password-generator/
+ password-generator/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # CSS styling
@@ -52,12 +52,12 @@ Check out the live version here: [https://your-username.github.io/password-gener
 
 ---
 
-## 🔧 How to Use
+##  How to Use
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   https://github.com/sai14367/Password-Generator/edit/main/README.md
    ```
 
 2. **Open the HTML file**:
@@ -78,7 +78,7 @@ Check out the live version here: [https://your-username.github.io/password-gener
 
 ---
 
-## 🌟 Example Output
+## Example Output
 
 ```
 &4hT@2vH9x#W
@@ -90,7 +90,7 @@ Each password is different and securely generated using JavaScript’s `Math.ran
 
 ---
 
-## ✨ Best Practices
+##  Best Practices
 
 * Use passwords that are **12+ characters long**
 * Include **symbols, numbers, and mixed cases** for stronger security
@@ -98,32 +98,28 @@ Each password is different and securely generated using JavaScript’s `Math.ran
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The UI is responsive and works seamlessly across devices including:
 
-* ✅ Desktops
-* ✅ Tablets
-* ✅ Mobile phones
+*  Desktops
+*  Tablets
+*  Mobile phones
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Masanam Venkata Sai Kumar**
-Intern, Python Programming Domain
-Mentor: Neela Santosh
-Company: CodTech IT Solutions
-
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Inspired by password managers and cybersecurity best practices
 * Designed for ease of use and educational purposes
@@ -131,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 💬 Feedback
+##  Feedback
 
 If you find bugs or have suggestions, feel free to open an issue or contribute via pull request.
 
